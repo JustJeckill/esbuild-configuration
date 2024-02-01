@@ -1,1 +1,1 @@
-# esbuild_configuration
+# esbuild-configuration(template)
